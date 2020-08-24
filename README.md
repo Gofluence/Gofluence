@@ -1,2 +1,2 @@
-![Gofluence](https://github.com/Gofluence/Gofluence/blob/master/default.png?raw=true)
+![Gofluence](https://github.com/Gofluence/Gofluence/blob/master/cover.png?raw=true)
 Private, decentralized livestreaming platform
